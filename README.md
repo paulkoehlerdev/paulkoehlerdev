@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Paul
-- 🙋 21 y/o, from Munich, Germany
+- 🙋 23 y/o, from Leipzig, Germany
 - 🚀 Backend Development, Geodata Science
 - 🪄 I create ✨*magic*✨ in Go (and some other languages)
 - 🧑‍💻 Currently working at CHECK24
